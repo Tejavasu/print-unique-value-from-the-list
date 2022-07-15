@@ -1,0 +1,4 @@
+rem=0
+for I in num:
+    rem = rem^I
+return rem
